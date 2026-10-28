@@ -1,0 +1,9 @@
+Item,Qty_needed,Buy_pack,Merchant,Price_USD_list,Tax_USD_13pct,Total_USD,URL
+Joystick Module RB-Cyt-268,1,1 pc,RobotShop Canada,3.09,0.40,3.49,https://ca.robotshop.com/products/robotshop-2-axis-joystick-module-button
+Stereo Enclosed Speaker Set 3W 4Ω,2,1 set of 2,Adafruit,7.50,0.98,8.48,https://www.adafruit.com/product/1669
+Rotary Encoder Module EC11,1,1 module,RobotShop Canada,2.95,0.38,3.33,https://ca.robotshop.com/products/ec11-rotary-encoder-module
+Tactile Push Button 6x6mm,10,50-pack,AliExpress,1.22,0.16,1.38,https://www.aliexpress.com/item/1005003751942617.html
+LED 5mm Red,3,50-pack,AliExpress,1.22,0.16,1.38,https://www.aliexpress.com/item/1005005510109796.html
+Resistor 220Ω,3,100-pack,AliExpress,1.22,0.16,1.38,https://www.aliexpress.com/item/1005002369567811.html
+OLED Display Module 0.96in SSD1306,1,1 pc,AliExpress,2.73,0.35,3.08,https://www.aliexpress.com/item/1005006141235306.html
+TOTAL,,,,19.93,2.59,22.52,
